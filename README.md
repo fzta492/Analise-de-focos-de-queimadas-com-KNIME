@@ -8,8 +8,9 @@ O objetivo principal desta análise é identificar padrões temporais e espaciai
 
 ## Fluxo de Trabalho no KNIME
 
-O fluxo de trabalho no KNIME foi estruturado em várias etapas, cada uma utilizando nós específicos para realizar tarefas de carregamento, limpeza, transformação, análise e visualização dos dados.
+O fluxo de trabalho no KNIME foi estruturado em várias etapas, cada uma utilizando nós específicos para realizar tarefas de carregamento, limpeza, transformação, análise e visualização dos dados.</br>
 
+[Download WorkFlow KNIME](https://drive.google.com/file/d/1lLSzMFqexUC_FgtZNgETbe9qh7-bAqul/view?usp=sharing)
 ![Captura de tela 2024-08-25 155910](https://github.com/user-attachments/assets/232f27e9-d5e4-42d9-8ec1-1ddac359e5b9)
 
 ## Perguntas que queremos responder ao final da análise:</br>
